@@ -1,3 +1,3 @@
 const colours = ["red", "green " ,"blue"];
 
-console.log(colours.join())// push method use to remove element from last
+console.log(colours.join())//convert into string
